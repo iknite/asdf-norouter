@@ -16,11 +16,8 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
-
+- `norouter.yaml`: configuration yml to be used in a norouter session
+- `bash`, `curl`, `ssh`, `kubectl`,`docker`: The local tools you want to use for norouter tunneling.
 # Install
 
 Plugin:
